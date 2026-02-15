@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "blink",
+  "base_artist": "RED in BLUE",
+  "createdAt": "2026-02-15T15:57:20.125601Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Blink",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/01_Don't_Blink_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blink",
+      "artist": "Zeds Dead feat. Perry Farrell",
+      "has_synced": true,
+      "path": "select/02_Blink_Zeds_Dead_feat._Perry_Farrell.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blink (feat. Perry Farrell)",
+      "artist": "Zeds Dead",
+      "has_synced": false,
+      "path": "select/03_Blink_(feat._Perry_Farrell)_Zeds_Dead.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blink of an Eye",
+      "artist": "Berlin",
+      "has_synced": false,
+      "path": "select/04_Blink_of_an_Eye_Berlin.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blink",
+      "artist": "Moloko",
+      "has_synced": true,
+      "path": "select/05_Blink_Moloko.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blink",
+      "artist": "Blue Scholars",
+      "has_synced": false,
+      "path": "select/06_Blink_Blue_Scholars.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blink (feat. Florentino)",
+      "artist": "Bad Gyal",
+      "has_synced": true,
+      "path": "select/07_Blink_(feat._Florentino)_Bad_Gyal.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blink (feat. DJ Florentino)",
+      "artist": "Bad Gyal",
+      "has_synced": true,
+      "path": "select/08_Blink_(feat._DJ_Florentino)_Bad_Gyal.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blink And You'll Miss A Revolution",
+      "artist": "Cut Copy",
+      "has_synced": true,
+      "path": "select/09_Blink_And_You'll_Miss_A_Revolution_Cut_Copy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Braid Burn Valley (Blink, Now You've Missed It)",
+      "artist": "Honeyblood",
+      "has_synced": false,
+      "path": "select/10_Braid_Burn_Valley_(Blink,_Now_You've_Missed_It)_Honeyblood.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blink",
+      "artist": "Digitalism",
+      "has_synced": true,
+      "path": "select/11_Blink_Digitalism.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Blink of an Eye",
+      "artist": "Bonfire",
+      "has_synced": true,
+      "path": "select/12_Blink_of_an_Eye_Bonfire.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "In the Blink of an Eye",
+      "artist": "Brainstorm",
+      "has_synced": false,
+      "path": "select/13_In_the_Blink_of_an_Eye_Brainstorm.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Blink",
+      "artist": "Sonic Youth",
+      "has_synced": true,
+      "path": "select/14_Blink_Sonic_Youth.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "blink",
+      "artist": "RED in BLUE",
+      "has_synced": false,
+      "path": "select/pl_01_blink_RED_in_BLUE.txt"
+    }
+  ]
+}
